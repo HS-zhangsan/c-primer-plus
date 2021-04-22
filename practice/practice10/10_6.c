@@ -1,5 +1,4 @@
 //编写一个函数，把double类型数组中的数据倒序排列
-//测试不用理...
 
 #include <stdio.h>
 #define N 5
